@@ -13,3 +13,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/malcolmbarrett/designing.ggplots
 BugReports: https://github.com/malcolmbarrett/designing.ggplots/issues
+RoxygenNote: 7.0.0
