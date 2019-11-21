@@ -8,7 +8,7 @@
 #'   installed
 #'
 #' @export
-install_course <- function(path = ".") {
+install_workshop <- function(path = ".") {
   usethis::use_course(
     "malcolmbarrett/designing_ggplots",
     normalizePath(path)
