@@ -24,4 +24,5 @@ Imports:
     sf,
     patchwork (>= 0.0.1)
 Remotes:  
-    thomasp85/patchwork
+    thomasp85/patchwork,
+    tidyverse/ggplot2
