@@ -20,6 +20,7 @@ Imports:
     ggrepel,
     cowplot,
     gghighlight,
+    usethis,
     sf,
     patchwork (>= 0.0.1)
 Remotes:  
