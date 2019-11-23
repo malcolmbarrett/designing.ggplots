@@ -15,6 +15,7 @@ URL: https://github.com/malcolmbarrett/designing.ggplots
 BugReports: https://github.com/malcolmbarrett/designing.ggplots/issues
 RoxygenNote: 7.0.0
 Imports: 
+    ggplot2 (>= 3.2.1.9000),
     tidyverse,
     gapminder,
     ggrepel,
